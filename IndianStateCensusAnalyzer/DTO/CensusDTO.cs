@@ -48,6 +48,5 @@ namespace IndianStateCensusAnalyzer.DTO
         //    this.waterArea = usCensusDao.waterArea;
         //    this.landArea = usCensusDao.landArea;
         //}
-
     }
 }

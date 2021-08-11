@@ -18,6 +18,5 @@ namespace IndianStateCensusAnalyzer.POCO
             this.tin = Convert.ToInt32(v3);
             this.stateCode = v4;
         }
-
     }
 }
