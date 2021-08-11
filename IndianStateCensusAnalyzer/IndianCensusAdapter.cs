@@ -28,7 +28,6 @@ namespace IndianStateCensusAnalyzer
                     dataMap.Add(column[0], new CensusDTO(new POCO.CensusDataDAO(column[0], column[1], column[2], column[3])));
 
             }
-
             return dataMap.ToDictionary(p => p.Key, p => p.Value);
         }
     }
