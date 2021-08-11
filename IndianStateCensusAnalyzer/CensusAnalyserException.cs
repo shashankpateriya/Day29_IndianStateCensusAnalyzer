@@ -20,7 +20,6 @@ namespace IndianStateCensusAnalyzer
         {
             this.eType = exceptionType;
         }
-
     }
 
 
