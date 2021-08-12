@@ -8,7 +8,6 @@ namespace CensusAnalyserNunitTest
 {
     public class Tests
     {
-
         //CensusAnalyser.CensusAnalyser censusAnalyser;
 
         static string indianStateCensusHeaders = "State,Population,AreaInSqKm,DensityPerSqKm";
